@@ -358,7 +358,7 @@ export const state = () => ({
       images: [
         {
           id: 1,
-          url: require('@/assets/sections/section9/problem2.png'),
+          url: require('@/assets/sections/section9/problem2.PNG'),
         },
       ],
     },
@@ -407,15 +407,15 @@ export const state = () => ({
       images: [
         {
           id: 1,
-          url: require('@/assets/sections/section10/tampilanDesktop.png'),
+          url: require('@/assets/sections/section10/tampilanDesktop.PNG'),
         },
         {
           id: 2,
-          url: require('@/assets/sections/section10/tampilanTablet.png'),
+          url: require('@/assets/sections/section10/tampilanTablet.PNG'),
         },
         {
           id: 3,
-          url: require('@/assets/sections/section10/tampilanMobile.png'),
+          url: require('@/assets/sections/section10/tampilanMobile.PNG'),
         },
       ],
     },
@@ -464,15 +464,15 @@ export const state = () => ({
       images: [
         {
           id: 1,
-          url: require('@/assets/sections/section11/tampilanDefault.png'),
+          url: require('@/assets/sections/section11/tampilanDefault.PNG'),
         },
         {
           id: 2,
-          url: require('@/assets/sections/section11/tampilanIsi.png'),
+          url: require('@/assets/sections/section11/tampilanIsi.PNG'),
         },
         {
           id: 3,
-          url: require('@/assets/sections/section11/tampilanKondisional.png'),
+          url: require('@/assets/sections/section11/tampilanKondisional.PNG'),
         },
       ],
     },
