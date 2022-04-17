@@ -293,23 +293,23 @@ export const state = () => ({
       images: [
         {
           id: 1,
-          url: require('@/assets/sections/section8/1.png'),
+          url: require('@/assets/sections/section8/1.PNG'),
         },
         {
           id: 2,
-          url: require('@/assets/sections/section8/3.png'),
+          url: require('@/assets/sections/section8/3.PNG'),
         },
         {
           id: 3,
-          url: require('@/assets/sections/section8/4.png'),
+          url: require('@/assets/sections/section8/4.PNG'),
         },
         {
           id: 4,
-          url: require('@/assets/sections/section8/5.png'),
+          url: require('@/assets/sections/section8/5.PNG'),
         },
         {
           id: 5,
-          url: require('@/assets/sections/section8/6.png'),
+          url: require('@/assets/sections/section8/6.PNG'),
         },
       ],
     },
