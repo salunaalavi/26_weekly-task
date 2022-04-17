@@ -256,7 +256,7 @@ export const state = () => ({
         },
         {
           id: 4,
-          url: require('@/assets/sections/section7/mobileResponsive.PNG'),
+          url: require('@/assets/sections/section7/mobileResponsive.png'),
         },
       ],
     },
